@@ -1,0 +1,45 @@
+name: Sync Supabase Database to JSON Mirror
+
+on:
+  scheduled:
+    # Runs every 6 hours (At minute 0 past every 6th hour)
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # Allows manual trigger from the GitHub Actions tab
+
+jobs:
+  sync-database:
+    runs-on: ubuntu-latest
+
+    # Grant write permissions so the workflow can commit files back to the repo
+    permissions:
+      contents: write
+
+    steps:
+      # Step 1: Pull down your repository code
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      # Step 2: Set up Python environment
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      # Step 3: Install the Supabase SDK
+      - name: Install Dependencies
+        run: pip install supabase
+
+      # Step 4: Execute our custom script passing in repository secrets
+      - name: Fetch Data from Supabase
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: python .github/scripts/update_data.py
+
+      # Step 5: Check if JSON files changed; if yes, commit and push them
+      - name: Commit and Push Changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update database JSON mirror [skip ci]"
+          branch: main
+          file_pattern: 'data/*.json'
