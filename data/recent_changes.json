@@ -1,0 +1,31 @@
+{
+  "last_updated_utc": "2026-10-30T19:53:55.793368+00:00",
+  "changes": {
+    "artists": {
+      "total_rows": 5741,
+      "new_rows_added_count": 2,
+      "new_rows": [
+        {
+          "id": "curta'n-wall",
+          "name": "curta'n wall",
+          "verified": false,
+          "votes": 0,
+          "human_votes": 0,
+          "ai_votes": 0,
+          "created_at": "2026-10-30T19:50:38.62188+00:00",
+          "platform": "music"
+        },
+        {
+          "id": "amir-talai",
+          "name": "amir talai",
+          "verified": false,
+          "votes": -1,
+          "human_votes": 1,
+          "ai_votes": 0,
+          "created_at": "2026-10-30T19:53:05.997039+00:00",
+          "platform": "music"
+        }
+      ]
+    }
+  }
+}
