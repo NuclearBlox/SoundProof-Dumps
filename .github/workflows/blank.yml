@@ -34,7 +34,7 @@ jobs:
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
-        run: python .github/scripts/update_data.py
+        run: python scripts/update_data.py
 
       # Step 5: Check if JSON files changed; if yes, commit and push them
       - name: Commit and Push Changes
