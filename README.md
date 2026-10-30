@@ -3,6 +3,7 @@ Find the full SoundProof database here!
 
 
 This repo will be cleaned up soon, but for now here is a basic explainer:
+```
   {
     "id": "dragonite-lofi",
     "name": "Dragonite LOFI",
@@ -13,7 +14,7 @@ This repo will be cleaned up soon, but for now here is a basic explainer:
     "created_at": "2026-04-11T08:59:25.76519+00:00",
     "platform": "music"
   },
-
+```
   The ID is the artist name without spaces or uppercase letters
   Name: self-explanatory 
   verified is only true when manually set
