@@ -1,7 +1,7 @@
 name: Sync Supabase Database to JSON Mirror
 
 on:
-  scheduled:
+  schedule:
     # Runs every 6 hours (At minute 0 past every 6th hour)
     - cron: '0 */6 * * *'
   workflow_dispatch: # Allows manual trigger from the GitHub Actions tab
