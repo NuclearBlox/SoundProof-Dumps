@@ -1,5 +1,5 @@
 # SoundProof-Dumps
-Find the full SoundProof database here! updating daily
+Find the full SoundProof database here! updating daily (let's hope)
 
 
 This repo will be cleaned up soon, but for now here is a basic explainer:
