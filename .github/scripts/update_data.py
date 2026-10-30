@@ -6,7 +6,7 @@ url: str = os.environ.get("SUPABASE_URL")
 key: str = os.environ.get("SUPABASE_SERVICE_ROLE_KEY")
 supabase: Client = create_client(url, key)
 
-TABLES_TO_EXPORT = ["artist"]
+TABLES_TO_EXPORT = ["artists"]
 
 os.makedirs("data", exist_ok=True)
 
