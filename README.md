@@ -25,4 +25,4 @@ This repo will be cleaned up soon, but for now here is a basic explainer:
 ```
 recent_changes is what I believe you were asking for. It just shows the new additions/changes since the last dump
 
-A large portion of the verified artist data in this dataset is derived from Soul0verAI by xoundbyte (https://github.com/xoundbyte/soul-over-ai), licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). We are not affiliated with or endorsed by Soul0verAI.
+all verified entries with `"created_at": "2026-01-20T21:03:37.337+00:00",` are  from Soul0verAI by xoundbyte (~1000) (https://github.com/xoundbyte/soul-over-ai), and are licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). We are not affiliated with or endorsed by Soul0verAI.
