@@ -24,3 +24,5 @@ This repo will be cleaned up soon, but for now here is a basic explainer:
   platform:  This is in case we expand into other platforms (like art), but is currently meaningless
 ```
 recent_changes is what I believe you were asking for. It just shows the new additions/changes since the last dump
+
+A large portion of the verified artist data in this dataset is derived from Soul0verAI by xoundbyte (https://github.com/xoundbyte/soul-over-ai), licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). We are not affiliated with or endorsed by Soul0verAI.
