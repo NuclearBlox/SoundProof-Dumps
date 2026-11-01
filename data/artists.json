@@ -40980,16 +40980,6 @@
     "platform": "music"
   },
   {
-    "id": "caravan-palace",
-    "name": "caravan palace",
-    "verified": false,
-    "votes": -3,
-    "human_votes": 3,
-    "ai_votes": 0,
-    "created_at": "2026-09-14T20:38:00.215808+00:00",
-    "platform": "music"
-  },
-  {
     "id": "flo-rida",
     "name": "flo rida",
     "verified": false,
@@ -41007,6 +40997,16 @@
     "human_votes": 3,
     "ai_votes": 0,
     "created_at": "2026-09-15T12:18:07.25975+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "caravan-palace",
+    "name": "caravan palace",
+    "verified": false,
+    "votes": -4,
+    "human_votes": 4,
+    "ai_votes": 0,
+    "created_at": "2026-09-14T20:38:00.215808+00:00",
     "platform": "music"
   },
   {
@@ -44480,16 +44480,6 @@
     "platform": "music"
   },
   {
-    "id": "glass-animals",
-    "name": "glass animals",
-    "verified": false,
-    "votes": -2,
-    "human_votes": 2,
-    "ai_votes": 0,
-    "created_at": "2026-10-04T04:37:55.207599+00:00",
-    "platform": "music"
-  },
-  {
     "id": "meat-loaf",
     "name": "meat loaf",
     "verified": false,
@@ -44647,6 +44637,16 @@
     "human_votes": 2,
     "ai_votes": 0,
     "created_at": "2026-09-30T19:48:55.384893+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "glass-animals",
+    "name": "glass animals",
+    "verified": false,
+    "votes": -3,
+    "human_votes": 3,
+    "ai_votes": 0,
+    "created_at": "2026-10-04T04:37:55.207599+00:00",
     "platform": "music"
   },
   {
@@ -57610,6 +57610,16 @@
     "platform": "music"
   },
   {
+    "id": "vessel",
+    "name": "vessel",
+    "verified": false,
+    "votes": -1,
+    "human_votes": 1,
+    "ai_votes": 0,
+    "created_at": "2026-10-31T22:34:12.749163+00:00",
+    "platform": "music"
+  },
+  {
     "id": "incubus",
     "name": "incubus",
     "verified": false,
@@ -57677,6 +57687,186 @@
     "human_votes": 1,
     "ai_votes": 0,
     "created_at": "2026-10-31T04:40:48.70168+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "tv-girl",
+    "name": "tv girl",
+    "verified": false,
+    "votes": -1,
+    "human_votes": 1,
+    "ai_votes": 0,
+    "created_at": "2026-10-31T22:38:59.484505+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "ashunite",
+    "name": "ashunite",
+    "verified": false,
+    "votes": 1,
+    "human_votes": 0,
+    "ai_votes": 1,
+    "created_at": "2026-10-31T05:07:51.018888+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "detektivbyrån",
+    "name": "detektivbyrån",
+    "verified": false,
+    "votes": -1,
+    "human_votes": 1,
+    "ai_votes": 0,
+    "created_at": "2026-10-31T19:05:22.249824+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "nick-key",
+    "name": "nick key",
+    "verified": false,
+    "votes": -1,
+    "human_votes": 1,
+    "ai_votes": 0,
+    "created_at": "2026-10-31T20:43:31.381375+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "holy-fuck",
+    "name": "holy fuck",
+    "verified": false,
+    "votes": -1,
+    "human_votes": 1,
+    "ai_votes": 0,
+    "created_at": "2026-10-31T22:42:21.584844+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "miracle-musical",
+    "name": "miracle musical",
+    "verified": false,
+    "votes": -1,
+    "human_votes": 1,
+    "ai_votes": 0,
+    "created_at": "2026-10-31T22:42:41.733878+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "raddan",
+    "name": "raddan",
+    "verified": false,
+    "votes": -1,
+    "human_votes": 1,
+    "ai_votes": 0,
+    "created_at": "2026-10-31T22:43:29.15958+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "slave.v-v-r",
+    "name": "slave.v-v-r",
+    "verified": false,
+    "votes": -1,
+    "human_votes": 1,
+    "ai_votes": 0,
+    "created_at": "2026-10-31T23:11:29.630497+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "gakhed",
+    "name": "gakhed",
+    "verified": false,
+    "votes": -1,
+    "human_votes": 1,
+    "ai_votes": 0,
+    "created_at": "2026-10-31T23:30:59.931302+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "loser64",
+    "name": "loser64",
+    "verified": false,
+    "votes": -1,
+    "human_votes": 1,
+    "ai_votes": 0,
+    "created_at": "2026-10-31T23:31:20.075596+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "we-are-trees",
+    "name": "we are trees",
+    "verified": false,
+    "votes": -1,
+    "human_votes": 1,
+    "ai_votes": 0,
+    "created_at": "2026-10-31T23:37:41.360556+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "melos-han-tani",
+    "name": "melos han-tani",
+    "verified": false,
+    "votes": -1,
+    "human_votes": 1,
+    "ai_votes": 0,
+    "created_at": "2026-10-31T23:48:59.616366+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "kohldr",
+    "name": "kohldr",
+    "verified": false,
+    "votes": 0,
+    "human_votes": 0,
+    "ai_votes": 0,
+    "created_at": "2026-11-01T00:14:16.703495+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "cactus-bear",
+    "name": "cactus bear",
+    "verified": false,
+    "votes": -1,
+    "human_votes": 1,
+    "ai_votes": 0,
+    "created_at": "2026-11-01T02:16:31.783023+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "sugar-ray",
+    "name": "sugar ray",
+    "verified": false,
+    "votes": -1,
+    "human_votes": 1,
+    "ai_votes": 0,
+    "created_at": "2026-11-01T02:44:44.114247+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "ethan-french",
+    "name": "ethan french",
+    "verified": false,
+    "votes": -1,
+    "human_votes": 1,
+    "ai_votes": 0,
+    "created_at": "2026-11-01T03:07:54.113983+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "zenless-zone-zero",
+    "name": "zenless zone zero",
+    "verified": false,
+    "votes": -1,
+    "human_votes": 1,
+    "ai_votes": 0,
+    "created_at": "2026-11-01T03:25:09.417745+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "稲葉曇",
+    "name": "稲葉曇",
+    "verified": false,
+    "votes": -1,
+    "human_votes": 1,
+    "ai_votes": 0,
+    "created_at": "2026-11-01T03:43:18.251559+00:00",
     "platform": "music"
   }
 ]
