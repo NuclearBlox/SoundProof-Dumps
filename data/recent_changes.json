@@ -1,198 +1,78 @@
 {
-  "last_updated_utc": "2026-11-01T05:28:28.252934+00:00",
+  "last_updated_utc": "2026-11-02T05:27:27.774458+00:00",
   "changes": {
     "artists": {
-      "total_rows": 5787,
-      "new_rows_added_count": 19,
+      "total_rows": 5794,
+      "new_rows_added_count": 7,
       "new_rows": [
         {
-          "id": "vessel",
-          "name": "vessel",
+          "id": "w&w",
+          "name": "w&w",
           "verified": false,
           "votes": -1,
           "human_votes": 1,
           "ai_votes": 0,
-          "created_at": "2026-10-31T22:34:12.749163+00:00",
+          "created_at": "2026-11-01T19:34:22.628001+00:00",
           "platform": "music"
         },
         {
-          "id": "tv-girl",
-          "name": "tv girl",
+          "id": "dave-rodgers-feat.-alex-de-rosso",
+          "name": "dave rodgers feat. alex de rosso",
           "verified": false,
           "votes": -1,
           "human_votes": 1,
           "ai_votes": 0,
-          "created_at": "2026-10-31T22:38:59.484505+00:00",
+          "created_at": "2026-11-01T06:10:47.846599+00:00",
           "platform": "music"
         },
         {
-          "id": "ashunite",
-          "name": "ashunite",
+          "id": "fouzia",
+          "name": "fouzia",
           "verified": false,
           "votes": 1,
           "human_votes": 0,
           "ai_votes": 1,
-          "created_at": "2026-10-31T05:07:51.018888+00:00",
+          "created_at": "2026-11-01T11:20:04.254562+00:00",
           "platform": "music"
         },
         {
-          "id": "detektivbyr\u00e5n",
-          "name": "detektivbyr\u00e5n",
+          "id": "before-we-fall",
+          "name": "before we fall",
           "verified": false,
-          "votes": -1,
-          "human_votes": 1,
-          "ai_votes": 0,
-          "created_at": "2026-10-31T19:05:22.249824+00:00",
-          "platform": "music"
-        },
-        {
-          "id": "nick-key",
-          "name": "nick key",
-          "verified": false,
-          "votes": -1,
-          "human_votes": 1,
-          "ai_votes": 0,
-          "created_at": "2026-10-31T20:43:31.381375+00:00",
-          "platform": "music"
-        },
-        {
-          "id": "holy-fuck",
-          "name": "holy fuck",
-          "verified": false,
-          "votes": -1,
-          "human_votes": 1,
-          "ai_votes": 0,
-          "created_at": "2026-10-31T22:42:21.584844+00:00",
-          "platform": "music"
-        },
-        {
-          "id": "miracle-musical",
-          "name": "miracle musical",
-          "verified": false,
-          "votes": -1,
-          "human_votes": 1,
-          "ai_votes": 0,
-          "created_at": "2026-10-31T22:42:41.733878+00:00",
-          "platform": "music"
-        },
-        {
-          "id": "raddan",
-          "name": "raddan",
-          "verified": false,
-          "votes": -1,
-          "human_votes": 1,
-          "ai_votes": 0,
-          "created_at": "2026-10-31T22:43:29.15958+00:00",
-          "platform": "music"
-        },
-        {
-          "id": "slave.v-v-r",
-          "name": "slave.v-v-r",
-          "verified": false,
-          "votes": -1,
-          "human_votes": 1,
-          "ai_votes": 0,
-          "created_at": "2026-10-31T23:11:29.630497+00:00",
-          "platform": "music"
-        },
-        {
-          "id": "gakhed",
-          "name": "gakhed",
-          "verified": false,
-          "votes": -1,
-          "human_votes": 1,
-          "ai_votes": 0,
-          "created_at": "2026-10-31T23:30:59.931302+00:00",
-          "platform": "music"
-        },
-        {
-          "id": "loser64",
-          "name": "loser64",
-          "verified": false,
-          "votes": -1,
-          "human_votes": 1,
-          "ai_votes": 0,
-          "created_at": "2026-10-31T23:31:20.075596+00:00",
-          "platform": "music"
-        },
-        {
-          "id": "we-are-trees",
-          "name": "we are trees",
-          "verified": false,
-          "votes": -1,
-          "human_votes": 1,
-          "ai_votes": 0,
-          "created_at": "2026-10-31T23:37:41.360556+00:00",
-          "platform": "music"
-        },
-        {
-          "id": "melos-han-tani",
-          "name": "melos han-tani",
-          "verified": false,
-          "votes": -1,
-          "human_votes": 1,
-          "ai_votes": 0,
-          "created_at": "2026-10-31T23:48:59.616366+00:00",
-          "platform": "music"
-        },
-        {
-          "id": "kohldr",
-          "name": "kohldr",
-          "verified": false,
-          "votes": 0,
+          "votes": 1,
           "human_votes": 0,
-          "ai_votes": 0,
-          "created_at": "2026-11-01T00:14:16.703495+00:00",
+          "ai_votes": 1,
+          "created_at": "2026-11-01T19:27:56.519417+00:00",
           "platform": "music"
         },
         {
-          "id": "cactus-bear",
-          "name": "cactus bear",
+          "id": "flawed-mangoes",
+          "name": "flawed mangoes",
           "verified": false,
           "votes": -1,
           "human_votes": 1,
           "ai_votes": 0,
-          "created_at": "2026-11-01T02:16:31.783023+00:00",
+          "created_at": "2026-11-01T23:43:53.148198+00:00",
           "platform": "music"
         },
         {
-          "id": "sugar-ray",
-          "name": "sugar ray",
+          "id": "merlin-brooklyn",
+          "name": "merlin brooklyn",
+          "verified": false,
+          "votes": 1,
+          "human_votes": 0,
+          "ai_votes": 1,
+          "created_at": "2026-11-02T00:08:12.190599+00:00",
+          "platform": "music"
+        },
+        {
+          "id": "telemist",
+          "name": "telemist",
           "verified": false,
           "votes": -1,
           "human_votes": 1,
           "ai_votes": 0,
-          "created_at": "2026-11-01T02:44:44.114247+00:00",
-          "platform": "music"
-        },
-        {
-          "id": "ethan-french",
-          "name": "ethan french",
-          "verified": false,
-          "votes": -1,
-          "human_votes": 1,
-          "ai_votes": 0,
-          "created_at": "2026-11-01T03:07:54.113983+00:00",
-          "platform": "music"
-        },
-        {
-          "id": "zenless-zone-zero",
-          "name": "zenless zone zero",
-          "verified": false,
-          "votes": -1,
-          "human_votes": 1,
-          "ai_votes": 0,
-          "created_at": "2026-11-01T03:25:09.417745+00:00",
-          "platform": "music"
-        },
-        {
-          "id": "\u7a32\u8449\u66c7",
-          "name": "\u7a32\u8449\u66c7",
-          "verified": false,
-          "votes": -1,
-          "human_votes": 1,
-          "ai_votes": 0,
-          "created_at": "2026-11-01T03:43:18.251559+00:00",
+          "created_at": "2026-11-02T04:48:05.855764+00:00",
           "platform": "music"
         }
       ]

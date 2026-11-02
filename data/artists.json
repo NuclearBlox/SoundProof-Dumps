@@ -21970,16 +21970,6 @@
     "platform": "music"
   },
   {
-    "id": "technoplanet",
-    "name": "technoplanet",
-    "verified": false,
-    "votes": -1,
-    "human_votes": 1,
-    "ai_votes": 0,
-    "created_at": "2026-06-28T19:52:37.381655+00:00",
-    "platform": "music"
-  },
-  {
     "id": "arforest-/-#ffffff-records",
     "name": "arforest / #ffffff records",
     "verified": false,
@@ -22577,6 +22567,16 @@
     "human_votes": 2,
     "ai_votes": 0,
     "created_at": "2026-06-28T19:47:26.755716+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "technoplanet",
+    "name": "technoplanet",
+    "verified": false,
+    "votes": -2,
+    "human_votes": 2,
+    "ai_votes": 0,
+    "created_at": "2026-06-28T19:52:37.381655+00:00",
     "platform": "music"
   },
   {
@@ -27450,6 +27450,16 @@
     "platform": "music"
   },
   {
+    "id": "no-reasons",
+    "name": "no reasons",
+    "verified": false,
+    "votes": 3,
+    "human_votes": 0,
+    "ai_votes": 3,
+    "created_at": "2026-07-21T12:03:21.051626+00:00",
+    "platform": "music"
+  },
+  {
     "id": "skyla-reeze",
     "name": "skyla reeze",
     "verified": false,
@@ -28187,16 +28197,6 @@
     "human_votes": 1,
     "ai_votes": 4,
     "created_at": "2026-07-18T12:44:59.382452+00:00",
-    "platform": "music"
-  },
-  {
-    "id": "no-reasons",
-    "name": "no reasons",
-    "verified": false,
-    "votes": 2,
-    "human_votes": 0,
-    "ai_votes": 2,
-    "created_at": "2026-07-21T12:03:21.051626+00:00",
     "platform": "music"
   },
   {
@@ -52990,6 +52990,16 @@
     "platform": "music"
   },
   {
+    "id": "w&w",
+    "name": "w&w",
+    "verified": false,
+    "votes": -1,
+    "human_votes": 1,
+    "ai_votes": 0,
+    "created_at": "2026-11-01T19:34:22.628001+00:00",
+    "platform": "music"
+  },
+  {
     "id": "/no",
     "name": "/no",
     "verified": false,
@@ -57570,16 +57580,6 @@
     "platform": "music"
   },
   {
-    "id": "pär-hagström",
-    "name": "pär hagström",
-    "verified": false,
-    "votes": -1,
-    "human_votes": 1,
-    "ai_votes": 0,
-    "created_at": "2026-10-30T23:56:01.026102+00:00",
-    "platform": "music"
-  },
-  {
     "id": "native-echo",
     "name": "Native Echo",
     "verified": false,
@@ -57867,6 +57867,76 @@
     "human_votes": 1,
     "ai_votes": 0,
     "created_at": "2026-11-01T03:43:18.251559+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "dave-rodgers-feat.-alex-de-rosso",
+    "name": "dave rodgers feat. alex de rosso",
+    "verified": false,
+    "votes": -1,
+    "human_votes": 1,
+    "ai_votes": 0,
+    "created_at": "2026-11-01T06:10:47.846599+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "fouzia",
+    "name": "fouzia",
+    "verified": false,
+    "votes": 1,
+    "human_votes": 0,
+    "ai_votes": 1,
+    "created_at": "2026-11-01T11:20:04.254562+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "before-we-fall",
+    "name": "before we fall",
+    "verified": false,
+    "votes": 1,
+    "human_votes": 0,
+    "ai_votes": 1,
+    "created_at": "2026-11-01T19:27:56.519417+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "pär-hagström",
+    "name": "pär hagström",
+    "verified": false,
+    "votes": -1,
+    "human_votes": 1,
+    "ai_votes": 0,
+    "created_at": "2026-10-30T23:56:01.026102+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "flawed-mangoes",
+    "name": "flawed mangoes",
+    "verified": false,
+    "votes": -1,
+    "human_votes": 1,
+    "ai_votes": 0,
+    "created_at": "2026-11-01T23:43:53.148198+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "merlin-brooklyn",
+    "name": "merlin brooklyn",
+    "verified": false,
+    "votes": 1,
+    "human_votes": 0,
+    "ai_votes": 1,
+    "created_at": "2026-11-02T00:08:12.190599+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "telemist",
+    "name": "telemist",
+    "verified": false,
+    "votes": -1,
+    "human_votes": 1,
+    "ai_votes": 0,
+    "created_at": "2026-11-02T04:48:05.855764+00:00",
     "platform": "music"
   }
 ]
