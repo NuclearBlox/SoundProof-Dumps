@@ -1,78 +1,188 @@
 {
-  "last_updated_utc": "2026-11-02T05:27:27.774458+00:00",
+  "last_updated_utc": "2026-11-03T06:06:20.883528+00:00",
   "changes": {
     "artists": {
-      "total_rows": 5794,
-      "new_rows_added_count": 7,
+      "total_rows": 5812,
+      "new_rows_added_count": 18,
       "new_rows": [
         {
-          "id": "w&w",
-          "name": "w&w",
-          "verified": false,
-          "votes": -1,
-          "human_votes": 1,
-          "ai_votes": 0,
-          "created_at": "2026-11-01T19:34:22.628001+00:00",
-          "platform": "music"
-        },
-        {
-          "id": "dave-rodgers-feat.-alex-de-rosso",
-          "name": "dave rodgers feat. alex de rosso",
-          "verified": false,
-          "votes": -1,
-          "human_votes": 1,
-          "ai_votes": 0,
-          "created_at": "2026-11-01T06:10:47.846599+00:00",
-          "platform": "music"
-        },
-        {
-          "id": "fouzia",
-          "name": "fouzia",
+          "id": "hayes-mint",
+          "name": "hayes mint",
           "verified": false,
           "votes": 1,
           "human_votes": 0,
           "ai_votes": 1,
-          "created_at": "2026-11-01T11:20:04.254562+00:00",
+          "created_at": "2026-11-02T07:28:20.898282+00:00",
           "platform": "music"
         },
         {
-          "id": "before-we-fall",
-          "name": "before we fall",
-          "verified": false,
-          "votes": 1,
-          "human_votes": 0,
-          "ai_votes": 1,
-          "created_at": "2026-11-01T19:27:56.519417+00:00",
-          "platform": "music"
-        },
-        {
-          "id": "flawed-mangoes",
-          "name": "flawed mangoes",
+          "id": "red-41",
+          "name": "red 41",
           "verified": false,
           "votes": -1,
           "human_votes": 1,
           "ai_votes": 0,
-          "created_at": "2026-11-01T23:43:53.148198+00:00",
+          "created_at": "2026-11-02T19:01:51.383011+00:00",
           "platform": "music"
         },
         {
-          "id": "merlin-brooklyn",
-          "name": "merlin brooklyn",
-          "verified": false,
-          "votes": 1,
-          "human_votes": 0,
-          "ai_votes": 1,
-          "created_at": "2026-11-02T00:08:12.190599+00:00",
-          "platform": "music"
-        },
-        {
-          "id": "telemist",
-          "name": "telemist",
+          "id": "simplebrian",
+          "name": "simplebrian",
           "verified": false,
           "votes": -1,
           "human_votes": 1,
           "ai_votes": 0,
-          "created_at": "2026-11-02T04:48:05.855764+00:00",
+          "created_at": "2026-11-02T20:06:26.26975+00:00",
+          "platform": "music"
+        },
+        {
+          "id": "goreshit",
+          "name": "goreshit",
+          "verified": false,
+          "votes": -1,
+          "human_votes": 1,
+          "ai_votes": 0,
+          "created_at": "2026-11-02T21:40:22.142478+00:00",
+          "platform": "music"
+        },
+        {
+          "id": "cristollo",
+          "name": "cristollo",
+          "verified": false,
+          "votes": 1,
+          "human_votes": 0,
+          "ai_votes": 1,
+          "created_at": "2026-11-03T00:28:04.261838+00:00",
+          "platform": "music"
+        },
+        {
+          "id": "sam-&-dave",
+          "name": "Sam & Dave",
+          "verified": false,
+          "votes": -1,
+          "human_votes": 1,
+          "ai_votes": 0,
+          "created_at": "2026-11-03T00:31:05.305512+00:00",
+          "platform": "music"
+        },
+        {
+          "id": "lost-vinyl-revival",
+          "name": "Lost Vinyl Revival",
+          "verified": false,
+          "votes": 1,
+          "human_votes": 0,
+          "ai_votes": 1,
+          "created_at": "2026-11-03T00:32:29.14202+00:00",
+          "platform": "music"
+        },
+        {
+          "id": "dylan.vh",
+          "name": "dylan.vh",
+          "verified": false,
+          "votes": 1,
+          "human_votes": 0,
+          "ai_votes": 1,
+          "created_at": "2026-11-03T00:34:42.014649+00:00",
+          "platform": "music"
+        },
+        {
+          "id": "ventureswithmia",
+          "name": "ventureswithmia",
+          "verified": false,
+          "votes": 1,
+          "human_votes": 0,
+          "ai_votes": 1,
+          "created_at": "2026-11-03T00:50:05.625418+00:00",
+          "platform": "music"
+        },
+        {
+          "id": "rosario-dawson,-taye-diggs,-idina-menzel,-jesse-l.-martin,-adam-pascal,-tracie-thoms,-anthony-rapp,-&-wilson-jermaine-heredia",
+          "name": "Rosario Dawson, Taye Diggs, Idina Menzel, Jesse L. Martin, Adam Pascal, Tracie Thoms, Anthony Rapp, & Wilson Jermaine Heredia",
+          "verified": false,
+          "votes": -1,
+          "human_votes": 1,
+          "ai_votes": 0,
+          "created_at": "2026-11-03T00:50:23.703162+00:00",
+          "platform": "music"
+        },
+        {
+          "id": "uno-hype",
+          "name": "uno hype",
+          "verified": false,
+          "votes": -1,
+          "human_votes": 1,
+          "ai_votes": 0,
+          "created_at": "2026-11-03T00:51:46.865849+00:00",
+          "platform": "music"
+        },
+        {
+          "id": "astrophysics",
+          "name": "astrophysics",
+          "verified": false,
+          "votes": -1,
+          "human_votes": 1,
+          "ai_votes": 0,
+          "created_at": "2026-11-03T02:01:46.255815+00:00",
+          "platform": "music"
+        },
+        {
+          "id": "kakaovy-zoe",
+          "name": "kakaovy zoe",
+          "verified": false,
+          "votes": 0,
+          "human_votes": 0,
+          "ai_votes": 0,
+          "created_at": "2026-11-02T21:40:33.416828+00:00",
+          "platform": "music"
+        },
+        {
+          "id": "frutiger-pm",
+          "name": "frutiger pm",
+          "verified": false,
+          "votes": -1,
+          "human_votes": 1,
+          "ai_votes": 0,
+          "created_at": "2026-11-03T02:50:11.53286+00:00",
+          "platform": "music"
+        },
+        {
+          "id": "coela",
+          "name": "coela",
+          "verified": false,
+          "votes": -1,
+          "human_votes": 1,
+          "ai_votes": 0,
+          "created_at": "2026-11-03T03:50:31.64366+00:00",
+          "platform": "music"
+        },
+        {
+          "id": "garn47",
+          "name": "garn47",
+          "verified": false,
+          "votes": -1,
+          "human_votes": 1,
+          "ai_votes": 0,
+          "created_at": "2026-11-03T03:57:16.246421+00:00",
+          "platform": "music"
+        },
+        {
+          "id": "calo",
+          "name": "calo",
+          "verified": false,
+          "votes": -1,
+          "human_votes": 1,
+          "ai_votes": 0,
+          "created_at": "2026-11-03T04:54:22.52764+00:00",
+          "platform": "music"
+        },
+        {
+          "id": "duncan-dhu",
+          "name": "duncan dhu",
+          "verified": false,
+          "votes": -1,
+          "human_votes": 1,
+          "ai_votes": 0,
+          "created_at": "2026-11-03T04:55:41.851996+00:00",
           "platform": "music"
         }
       ]

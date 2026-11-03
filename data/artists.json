@@ -23020,16 +23020,6 @@
     "platform": "music"
   },
   {
-    "id": "oliver-buckland",
-    "name": "oliver buckland",
-    "verified": false,
-    "votes": -1,
-    "human_votes": 1,
-    "ai_votes": 0,
-    "created_at": "2026-06-28T20:13:52.103987+00:00",
-    "platform": "music"
-  },
-  {
     "id": "earreadmusic",
     "name": "earreadmusic",
     "verified": false,
@@ -26857,16 +26847,6 @@
     "human_votes": 0,
     "ai_votes": 1,
     "created_at": "2026-07-16T21:26:55.118076+00:00",
-    "platform": "music"
-  },
-  {
-    "id": "shxnei",
-    "name": "shxnei",
-    "verified": false,
-    "votes": 1,
-    "human_votes": 0,
-    "ai_votes": 1,
-    "created_at": "2026-07-16T21:27:16.5203+00:00",
     "platform": "music"
   },
   {
@@ -31707,16 +31687,6 @@
     "human_votes": 1,
     "ai_votes": 0,
     "created_at": "2026-10-28T20:11:00.20534+00:00",
-    "platform": "music"
-  },
-  {
-    "id": "eros-ramazzotti",
-    "name": "eros ramazzotti",
-    "verified": false,
-    "votes": -1,
-    "human_votes": 1,
-    "ai_votes": 0,
-    "created_at": "2026-10-28T20:11:04.61472+00:00",
     "platform": "music"
   },
   {
@@ -41300,16 +41270,6 @@
     "platform": "music"
   },
   {
-    "id": "crush-toast",
-    "name": "crush toast",
-    "verified": false,
-    "votes": 1,
-    "human_votes": 0,
-    "ai_votes": 1,
-    "created_at": "2026-09-18T09:02:20.859493+00:00",
-    "platform": "music"
-  },
-  {
     "id": "​bbno$",
     "name": "​bbno$",
     "verified": false,
@@ -41917,6 +41877,16 @@
     "human_votes": 0,
     "ai_votes": 3,
     "created_at": "2026-07-16T21:25:27.430522+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "crush-toast",
+    "name": "crush toast",
+    "verified": false,
+    "votes": 2,
+    "human_votes": 0,
+    "ai_votes": 2,
+    "created_at": "2026-09-18T09:02:20.859493+00:00",
     "platform": "music"
   },
   {
@@ -43010,16 +42980,6 @@
     "platform": "music"
   },
   {
-    "id": "cynthoni",
-    "name": "cynthoni",
-    "verified": false,
-    "votes": -1,
-    "human_votes": 1,
-    "ai_votes": 0,
-    "created_at": "2026-09-26T23:52:46.609269+00:00",
-    "platform": "music"
-  },
-  {
     "id": "kurare",
     "name": "kurare",
     "verified": false,
@@ -43737,6 +43697,16 @@
     "human_votes": 0,
     "ai_votes": 3,
     "created_at": "2026-09-29T04:49:06.967699+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "cynthoni",
+    "name": "cynthoni",
+    "verified": false,
+    "votes": -1,
+    "human_votes": 1,
+    "ai_votes": 0,
+    "created_at": "2026-09-26T23:52:46.609269+00:00",
     "platform": "music"
   },
   {
@@ -44580,16 +44550,6 @@
     "platform": "music"
   },
   {
-    "id": "leafy-radio",
-    "name": "leafy radio",
-    "verified": false,
-    "votes": -1,
-    "human_votes": 1,
-    "ai_votes": 0,
-    "created_at": "2026-10-06T03:23:04.042205+00:00",
-    "platform": "music"
-  },
-  {
     "id": "rushex",
     "name": "rushex",
     "verified": false,
@@ -44647,6 +44607,16 @@
     "human_votes": 3,
     "ai_votes": 0,
     "created_at": "2026-10-04T04:37:55.207599+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "leafy-radio",
+    "name": "leafy radio",
+    "verified": false,
+    "votes": -1,
+    "human_votes": 1,
+    "ai_votes": 0,
+    "created_at": "2026-10-06T03:23:04.042205+00:00",
     "platform": "music"
   },
   {
@@ -44797,16 +44767,6 @@
     "human_votes": 1,
     "ai_votes": 0,
     "created_at": "2026-10-09T01:21:40.995442+00:00",
-    "platform": "music"
-  },
-  {
-    "id": "sidney-gish",
-    "name": "sidney gish",
-    "verified": false,
-    "votes": -1,
-    "human_votes": 1,
-    "ai_votes": 0,
-    "created_at": "2026-10-09T01:24:18.259289+00:00",
     "platform": "music"
   },
   {
@@ -45010,13 +44970,13 @@
     "platform": "music"
   },
   {
-    "id": "solène",
-    "name": "solène",
+    "id": "hot-milk",
+    "name": "hot milk",
     "verified": false,
-    "votes": 1,
-    "human_votes": 0,
-    "ai_votes": 1,
-    "created_at": "2026-10-11T20:37:51.42465+00:00",
+    "votes": -2,
+    "human_votes": 2,
+    "ai_votes": 0,
+    "created_at": "2026-10-14T18:19:23.80394+00:00",
     "platform": "music"
   },
   {
@@ -45420,16 +45380,6 @@
     "platform": "music"
   },
   {
-    "id": "hot-milk",
-    "name": "hot milk",
-    "verified": false,
-    "votes": -1,
-    "human_votes": 1,
-    "ai_votes": 0,
-    "created_at": "2026-10-14T18:19:23.80394+00:00",
-    "platform": "music"
-  },
-  {
     "id": "mitchn",
     "name": "mitchn",
     "verified": false,
@@ -45567,6 +45517,16 @@
     "human_votes": 2,
     "ai_votes": 0,
     "created_at": "2026-10-13T13:31:10.263945+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "solène",
+    "name": "solène",
+    "verified": false,
+    "votes": 2,
+    "human_votes": 0,
+    "ai_votes": 2,
+    "created_at": "2026-10-11T20:37:51.42465+00:00",
     "platform": "music"
   },
   {
@@ -57937,6 +57897,226 @@
     "human_votes": 1,
     "ai_votes": 0,
     "created_at": "2026-11-02T04:48:05.855764+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "hayes-mint",
+    "name": "hayes mint",
+    "verified": false,
+    "votes": 1,
+    "human_votes": 0,
+    "ai_votes": 1,
+    "created_at": "2026-11-02T07:28:20.898282+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "red-41",
+    "name": "red 41",
+    "verified": false,
+    "votes": -1,
+    "human_votes": 1,
+    "ai_votes": 0,
+    "created_at": "2026-11-02T19:01:51.383011+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "simplebrian",
+    "name": "simplebrian",
+    "verified": false,
+    "votes": -1,
+    "human_votes": 1,
+    "ai_votes": 0,
+    "created_at": "2026-11-02T20:06:26.26975+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "goreshit",
+    "name": "goreshit",
+    "verified": false,
+    "votes": -1,
+    "human_votes": 1,
+    "ai_votes": 0,
+    "created_at": "2026-11-02T21:40:22.142478+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "shxnei",
+    "name": "shxnei",
+    "verified": false,
+    "votes": 0,
+    "human_votes": 1,
+    "ai_votes": 1,
+    "created_at": "2026-07-16T21:27:16.5203+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "cristollo",
+    "name": "cristollo",
+    "verified": false,
+    "votes": 1,
+    "human_votes": 0,
+    "ai_votes": 1,
+    "created_at": "2026-11-03T00:28:04.261838+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "sam-&-dave",
+    "name": "Sam & Dave",
+    "verified": false,
+    "votes": -1,
+    "human_votes": 1,
+    "ai_votes": 0,
+    "created_at": "2026-11-03T00:31:05.305512+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "lost-vinyl-revival",
+    "name": "Lost Vinyl Revival",
+    "verified": false,
+    "votes": 1,
+    "human_votes": 0,
+    "ai_votes": 1,
+    "created_at": "2026-11-03T00:32:29.14202+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "dylan.vh",
+    "name": "dylan.vh",
+    "verified": false,
+    "votes": 1,
+    "human_votes": 0,
+    "ai_votes": 1,
+    "created_at": "2026-11-03T00:34:42.014649+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "ventureswithmia",
+    "name": "ventureswithmia",
+    "verified": false,
+    "votes": 1,
+    "human_votes": 0,
+    "ai_votes": 1,
+    "created_at": "2026-11-03T00:50:05.625418+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "rosario-dawson,-taye-diggs,-idina-menzel,-jesse-l.-martin,-adam-pascal,-tracie-thoms,-anthony-rapp,-&-wilson-jermaine-heredia",
+    "name": "Rosario Dawson, Taye Diggs, Idina Menzel, Jesse L. Martin, Adam Pascal, Tracie Thoms, Anthony Rapp, & Wilson Jermaine Heredia",
+    "verified": false,
+    "votes": -1,
+    "human_votes": 1,
+    "ai_votes": 0,
+    "created_at": "2026-11-03T00:50:23.703162+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "uno-hype",
+    "name": "uno hype",
+    "verified": false,
+    "votes": -1,
+    "human_votes": 1,
+    "ai_votes": 0,
+    "created_at": "2026-11-03T00:51:46.865849+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "sidney-gish",
+    "name": "sidney gish",
+    "verified": false,
+    "votes": -1,
+    "human_votes": 1,
+    "ai_votes": 0,
+    "created_at": "2026-10-09T01:24:18.259289+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "astrophysics",
+    "name": "astrophysics",
+    "verified": false,
+    "votes": -1,
+    "human_votes": 1,
+    "ai_votes": 0,
+    "created_at": "2026-11-03T02:01:46.255815+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "kakaovy-zoe",
+    "name": "kakaovy zoe",
+    "verified": false,
+    "votes": 0,
+    "human_votes": 0,
+    "ai_votes": 0,
+    "created_at": "2026-11-02T21:40:33.416828+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "frutiger-pm",
+    "name": "frutiger pm",
+    "verified": false,
+    "votes": -1,
+    "human_votes": 1,
+    "ai_votes": 0,
+    "created_at": "2026-11-03T02:50:11.53286+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "coela",
+    "name": "coela",
+    "verified": false,
+    "votes": -1,
+    "human_votes": 1,
+    "ai_votes": 0,
+    "created_at": "2026-11-03T03:50:31.64366+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "garn47",
+    "name": "garn47",
+    "verified": false,
+    "votes": -1,
+    "human_votes": 1,
+    "ai_votes": 0,
+    "created_at": "2026-11-03T03:57:16.246421+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "oliver-buckland",
+    "name": "oliver buckland",
+    "verified": false,
+    "votes": -2,
+    "human_votes": 2,
+    "ai_votes": 0,
+    "created_at": "2026-06-28T20:13:52.103987+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "eros-ramazzotti",
+    "name": "eros ramazzotti",
+    "verified": false,
+    "votes": -2,
+    "human_votes": 2,
+    "ai_votes": 0,
+    "created_at": "2026-10-28T20:11:04.61472+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "calo",
+    "name": "calo",
+    "verified": false,
+    "votes": -1,
+    "human_votes": 1,
+    "ai_votes": 0,
+    "created_at": "2026-11-03T04:54:22.52764+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "duncan-dhu",
+    "name": "duncan dhu",
+    "verified": false,
+    "votes": -1,
+    "human_votes": 1,
+    "ai_votes": 0,
+    "created_at": "2026-11-03T04:55:41.851996+00:00",
     "platform": "music"
   }
 ]
