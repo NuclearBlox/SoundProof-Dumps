@@ -18683,8 +18683,8 @@
     "id": "josie-edwards",
     "name": "Josie Edwards",
     "verified": false,
-    "votes": -2,
-    "human_votes": 2,
+    "votes": -3,
+    "human_votes": 3,
     "ai_votes": 0,
     "created_at": "2026-05-20T21:30:41.134576+00:00",
     "platform": "music"
@@ -31130,16 +31130,6 @@
     "platform": "music"
   },
   {
-    "id": "anya-nami",
-    "name": "anya nami",
-    "verified": false,
-    "votes": -2,
-    "human_votes": 2,
-    "ai_votes": 0,
-    "created_at": "2026-08-11T10:54:00.780971+00:00",
-    "platform": "music"
-  },
-  {
     "id": "thong-song",
     "name": "thong song",
     "verified": false,
@@ -31847,6 +31837,16 @@
     "human_votes": 1,
     "ai_votes": 0,
     "created_at": "2026-10-28T20:12:28.262378+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "anya-nami",
+    "name": "anya nami",
+    "verified": false,
+    "votes": -3,
+    "human_votes": 3,
+    "ai_votes": 0,
+    "created_at": "2026-08-11T10:54:00.780971+00:00",
     "platform": "music"
   },
   {
@@ -36130,16 +36130,6 @@
     "platform": "music"
   },
   {
-    "id": "iyowa",
-    "name": "iyowa",
-    "verified": false,
-    "votes": -1,
-    "human_votes": 1,
-    "ai_votes": 0,
-    "created_at": "2026-08-31T21:59:34.12637+00:00",
-    "platform": "music"
-  },
-  {
     "id": "el-tigr3",
     "name": "el tigr3",
     "verified": false,
@@ -36387,6 +36377,16 @@
     "human_votes": 1,
     "ai_votes": 0,
     "created_at": "2026-08-28T18:46:19.736393+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "iyowa",
+    "name": "iyowa",
+    "verified": false,
+    "votes": -1,
+    "human_votes": 1,
+    "ai_votes": 0,
+    "created_at": "2026-08-31T21:59:34.12637+00:00",
     "platform": "music"
   },
   {
@@ -38940,16 +38940,6 @@
     "platform": "music"
   },
   {
-    "id": "massive-attack",
-    "name": "massive attack",
-    "verified": false,
-    "votes": -1,
-    "human_votes": 1,
-    "ai_votes": 0,
-    "created_at": "2026-09-10T13:42:56.405131+00:00",
-    "platform": "music"
-  },
-  {
     "id": "структура-щастя",
     "name": "структура щастя",
     "verified": false,
@@ -39127,6 +39117,16 @@
     "human_votes": 2,
     "ai_votes": 0,
     "created_at": "2026-09-09T11:00:48.617228+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "massive-attack",
+    "name": "massive attack",
+    "verified": false,
+    "votes": -2,
+    "human_votes": 2,
+    "ai_votes": 0,
+    "created_at": "2026-09-10T13:42:56.405131+00:00",
     "platform": "music"
   },
   {
@@ -41310,16 +41310,6 @@
     "platform": "music"
   },
   {
-    "id": "connor-price",
-    "name": "connor price",
-    "verified": false,
-    "votes": -1,
-    "human_votes": 1,
-    "ai_votes": 0,
-    "created_at": "2026-09-21T12:32:02.741079+00:00",
-    "platform": "music"
-  },
-  {
     "id": "meyo",
     "name": "meyo",
     "verified": false,
@@ -41897,6 +41887,16 @@
     "human_votes": 2,
     "ai_votes": 1,
     "created_at": "2026-09-20T10:53:08.909654+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "connor-price",
+    "name": "connor price",
+    "verified": false,
+    "votes": -2,
+    "human_votes": 2,
+    "ai_votes": 0,
+    "created_at": "2026-09-21T12:32:02.741079+00:00",
     "platform": "music"
   },
   {
@@ -53710,6 +53710,16 @@
     "platform": "music"
   },
   {
+    "id": "awe",
+    "name": "awe",
+    "verified": false,
+    "votes": -1,
+    "human_votes": 1,
+    "ai_votes": 0,
+    "created_at": "2026-11-04T00:00:25.896872+00:00",
+    "platform": "music"
+  },
+  {
     "id": "annenmaykantereit",
     "name": "annenmaykantereit",
     "verified": false,
@@ -58117,6 +58127,166 @@
     "human_votes": 1,
     "ai_votes": 0,
     "created_at": "2026-11-03T04:55:41.851996+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "talyana",
+    "name": "talyana",
+    "verified": false,
+    "votes": -1,
+    "human_votes": 1,
+    "ai_votes": 0,
+    "created_at": "2026-11-03T07:30:07.626747+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "sid-bader",
+    "name": "sid bader",
+    "verified": false,
+    "votes": -1,
+    "human_votes": 1,
+    "ai_votes": 0,
+    "created_at": "2026-11-03T15:25:07.169195+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "kørp",
+    "name": "kørp",
+    "verified": false,
+    "votes": 1,
+    "human_votes": 0,
+    "ai_votes": 1,
+    "created_at": "2026-11-03T15:25:58.444963+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "deepvocals",
+    "name": "deepvocals",
+    "verified": false,
+    "votes": 1,
+    "human_votes": 0,
+    "ai_votes": 1,
+    "created_at": "2026-11-03T15:26:59.310561+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "negi0723",
+    "name": "negi0723",
+    "verified": false,
+    "votes": 1,
+    "human_votes": 0,
+    "ai_votes": 1,
+    "created_at": "2026-11-03T15:27:25.727466+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "abi-z",
+    "name": "abi z",
+    "verified": false,
+    "votes": 1,
+    "human_votes": 0,
+    "ai_votes": 1,
+    "created_at": "2026-11-03T15:27:46.874312+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "nishioyaa",
+    "name": "nishioyaa",
+    "verified": false,
+    "votes": 1,
+    "human_votes": 0,
+    "ai_votes": 1,
+    "created_at": "2026-11-03T16:03:47.979793+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "øneheart",
+    "name": "øneheart",
+    "verified": false,
+    "votes": -1,
+    "human_votes": 1,
+    "ai_votes": 0,
+    "created_at": "2026-11-03T20:32:08.840944+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "kikuo",
+    "name": "kikuo",
+    "verified": false,
+    "votes": -1,
+    "human_votes": 1,
+    "ai_votes": 0,
+    "created_at": "2026-11-03T22:10:28.576853+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "oster-project",
+    "name": "oster project",
+    "verified": false,
+    "votes": -1,
+    "human_votes": 1,
+    "ai_votes": 0,
+    "created_at": "2026-11-03T22:10:33.886457+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "seeeeecun",
+    "name": "seeeeecun",
+    "verified": false,
+    "votes": -1,
+    "human_votes": 1,
+    "ai_votes": 0,
+    "created_at": "2026-11-03T22:10:43.838587+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "som̶a",
+    "name": "som̶a",
+    "verified": false,
+    "votes": -1,
+    "human_votes": 1,
+    "ai_votes": 0,
+    "created_at": "2026-11-03T22:31:10.837191+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "dobi,-linked-winters,-friendd",
+    "name": "dobi, linked winters, friendd",
+    "verified": false,
+    "votes": -1,
+    "human_votes": 1,
+    "ai_votes": 0,
+    "created_at": "2026-11-03T23:50:27.714112+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "nightiger",
+    "name": "nightiger",
+    "verified": false,
+    "votes": -1,
+    "human_votes": 1,
+    "ai_votes": 0,
+    "created_at": "2026-11-04T00:06:25.809284+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "ciphereris",
+    "name": "ciphereris",
+    "verified": false,
+    "votes": -1,
+    "human_votes": 1,
+    "ai_votes": 0,
+    "created_at": "2026-11-04T01:02:35.766085+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "noven",
+    "name": "noven",
+    "verified": false,
+    "votes": 1,
+    "human_votes": 0,
+    "ai_votes": 1,
+    "created_at": "2026-11-04T05:27:49.362988+00:00",
     "platform": "music"
   }
 ]
