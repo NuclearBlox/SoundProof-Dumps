@@ -17143,8 +17143,8 @@
     "id": "djo",
     "name": "Djo",
     "verified": false,
-    "votes": -2,
-    "human_votes": 2,
+    "votes": -3,
+    "human_votes": 3,
     "ai_votes": 0,
     "created_at": "2026-04-20T23:27:25.321527+00:00",
     "platform": "music"
@@ -43270,16 +43270,6 @@
     "platform": "music"
   },
   {
-    "id": "the-tavern-song",
-    "name": "the tavern song",
-    "verified": false,
-    "votes": 1,
-    "human_votes": 0,
-    "ai_votes": 1,
-    "created_at": "2026-09-28T23:19:24.086895+00:00",
-    "platform": "music"
-  },
-  {
     "id": "kavian",
     "name": "kavian",
     "verified": false,
@@ -43697,6 +43687,16 @@
     "human_votes": 0,
     "ai_votes": 3,
     "created_at": "2026-09-29T04:49:06.967699+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "the-tavern-song",
+    "name": "the tavern song",
+    "verified": false,
+    "votes": 2,
+    "human_votes": 0,
+    "ai_votes": 2,
+    "created_at": "2026-09-28T23:19:24.086895+00:00",
     "platform": "music"
   },
   {
@@ -58287,6 +58287,86 @@
     "human_votes": 0,
     "ai_votes": 1,
     "created_at": "2026-11-04T05:27:49.362988+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "hildegard-von-blingin'",
+    "name": "hildegard von blingin'",
+    "verified": false,
+    "votes": -1,
+    "human_votes": 1,
+    "ai_votes": 0,
+    "created_at": "2026-11-04T13:35:16.254876+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "hinako",
+    "name": "hinako",
+    "verified": false,
+    "votes": -1,
+    "human_votes": 1,
+    "ai_votes": 0,
+    "created_at": "2026-11-04T15:22:12.885284+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "penelope-scott",
+    "name": "penelope scott",
+    "verified": false,
+    "votes": -1,
+    "human_votes": 1,
+    "ai_votes": 0,
+    "created_at": "2026-11-04T16:33:59.022125+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "sampleplatter",
+    "name": "sampleplatter",
+    "verified": false,
+    "votes": 1,
+    "human_votes": 0,
+    "ai_votes": 1,
+    "created_at": "2026-11-04T18:30:47.646573+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "wande-oeheu",
+    "name": "wande oeheu",
+    "verified": false,
+    "votes": 1,
+    "human_votes": 0,
+    "ai_votes": 1,
+    "created_at": "2026-11-04T18:48:11.698196+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "imogen-heap",
+    "name": "imogen heap",
+    "verified": false,
+    "votes": -1,
+    "human_votes": 1,
+    "ai_votes": 0,
+    "created_at": "2026-11-04T21:33:53.534919+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "forrest-stump",
+    "name": "forrest stump",
+    "verified": false,
+    "votes": 1,
+    "human_votes": 0,
+    "ai_votes": 1,
+    "created_at": "2026-11-04T22:21:37.68799+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "arigatoray",
+    "name": "arigatoray",
+    "verified": false,
+    "votes": -1,
+    "human_votes": 1,
+    "ai_votes": 0,
+    "created_at": "2026-11-05T02:39:22.734206+00:00",
     "platform": "music"
   }
 ]

@@ -1,178 +1,88 @@
 {
-  "last_updated_utc": "2026-11-04T05:45:00.685055+00:00",
+  "last_updated_utc": "2026-11-05T06:02:03.704819+00:00",
   "changes": {
     "artists": {
-      "total_rows": 5829,
-      "new_rows_added_count": 17,
+      "total_rows": 5837,
+      "new_rows_added_count": 8,
       "new_rows": [
         {
-          "id": "awe",
-          "name": "awe",
+          "id": "hildegard-von-blingin'",
+          "name": "hildegard von blingin'",
           "verified": false,
           "votes": -1,
           "human_votes": 1,
           "ai_votes": 0,
-          "created_at": "2026-11-04T00:00:25.896872+00:00",
+          "created_at": "2026-11-04T13:35:16.254876+00:00",
           "platform": "music"
         },
         {
-          "id": "talyana",
-          "name": "talyana",
+          "id": "hinako",
+          "name": "hinako",
           "verified": false,
           "votes": -1,
           "human_votes": 1,
           "ai_votes": 0,
-          "created_at": "2026-11-03T07:30:07.626747+00:00",
+          "created_at": "2026-11-04T15:22:12.885284+00:00",
           "platform": "music"
         },
         {
-          "id": "sid-bader",
-          "name": "sid bader",
+          "id": "penelope-scott",
+          "name": "penelope scott",
           "verified": false,
           "votes": -1,
           "human_votes": 1,
           "ai_votes": 0,
-          "created_at": "2026-11-03T15:25:07.169195+00:00",
+          "created_at": "2026-11-04T16:33:59.022125+00:00",
           "platform": "music"
         },
         {
-          "id": "k\u00f8rp",
-          "name": "k\u00f8rp",
+          "id": "sampleplatter",
+          "name": "sampleplatter",
           "verified": false,
           "votes": 1,
           "human_votes": 0,
           "ai_votes": 1,
-          "created_at": "2026-11-03T15:25:58.444963+00:00",
+          "created_at": "2026-11-04T18:30:47.646573+00:00",
           "platform": "music"
         },
         {
-          "id": "deepvocals",
-          "name": "deepvocals",
+          "id": "wande-oeheu",
+          "name": "wande oeheu",
           "verified": false,
           "votes": 1,
           "human_votes": 0,
           "ai_votes": 1,
-          "created_at": "2026-11-03T15:26:59.310561+00:00",
+          "created_at": "2026-11-04T18:48:11.698196+00:00",
           "platform": "music"
         },
         {
-          "id": "negi0723",
-          "name": "negi0723",
+          "id": "imogen-heap",
+          "name": "imogen heap",
+          "verified": false,
+          "votes": -1,
+          "human_votes": 1,
+          "ai_votes": 0,
+          "created_at": "2026-11-04T21:33:53.534919+00:00",
+          "platform": "music"
+        },
+        {
+          "id": "forrest-stump",
+          "name": "forrest stump",
           "verified": false,
           "votes": 1,
           "human_votes": 0,
           "ai_votes": 1,
-          "created_at": "2026-11-03T15:27:25.727466+00:00",
+          "created_at": "2026-11-04T22:21:37.68799+00:00",
           "platform": "music"
         },
         {
-          "id": "abi-z",
-          "name": "abi z",
-          "verified": false,
-          "votes": 1,
-          "human_votes": 0,
-          "ai_votes": 1,
-          "created_at": "2026-11-03T15:27:46.874312+00:00",
-          "platform": "music"
-        },
-        {
-          "id": "nishioyaa",
-          "name": "nishioyaa",
-          "verified": false,
-          "votes": 1,
-          "human_votes": 0,
-          "ai_votes": 1,
-          "created_at": "2026-11-03T16:03:47.979793+00:00",
-          "platform": "music"
-        },
-        {
-          "id": "\u00f8neheart",
-          "name": "\u00f8neheart",
+          "id": "arigatoray",
+          "name": "arigatoray",
           "verified": false,
           "votes": -1,
           "human_votes": 1,
           "ai_votes": 0,
-          "created_at": "2026-11-03T20:32:08.840944+00:00",
-          "platform": "music"
-        },
-        {
-          "id": "kikuo",
-          "name": "kikuo",
-          "verified": false,
-          "votes": -1,
-          "human_votes": 1,
-          "ai_votes": 0,
-          "created_at": "2026-11-03T22:10:28.576853+00:00",
-          "platform": "music"
-        },
-        {
-          "id": "oster-project",
-          "name": "oster project",
-          "verified": false,
-          "votes": -1,
-          "human_votes": 1,
-          "ai_votes": 0,
-          "created_at": "2026-11-03T22:10:33.886457+00:00",
-          "platform": "music"
-        },
-        {
-          "id": "seeeeecun",
-          "name": "seeeeecun",
-          "verified": false,
-          "votes": -1,
-          "human_votes": 1,
-          "ai_votes": 0,
-          "created_at": "2026-11-03T22:10:43.838587+00:00",
-          "platform": "music"
-        },
-        {
-          "id": "som\u0336a",
-          "name": "som\u0336a",
-          "verified": false,
-          "votes": -1,
-          "human_votes": 1,
-          "ai_votes": 0,
-          "created_at": "2026-11-03T22:31:10.837191+00:00",
-          "platform": "music"
-        },
-        {
-          "id": "dobi,-linked-winters,-friendd",
-          "name": "dobi, linked winters, friendd",
-          "verified": false,
-          "votes": -1,
-          "human_votes": 1,
-          "ai_votes": 0,
-          "created_at": "2026-11-03T23:50:27.714112+00:00",
-          "platform": "music"
-        },
-        {
-          "id": "nightiger",
-          "name": "nightiger",
-          "verified": false,
-          "votes": -1,
-          "human_votes": 1,
-          "ai_votes": 0,
-          "created_at": "2026-11-04T00:06:25.809284+00:00",
-          "platform": "music"
-        },
-        {
-          "id": "ciphereris",
-          "name": "ciphereris",
-          "verified": false,
-          "votes": -1,
-          "human_votes": 1,
-          "ai_votes": 0,
-          "created_at": "2026-11-04T01:02:35.766085+00:00",
-          "platform": "music"
-        },
-        {
-          "id": "noven",
-          "name": "noven",
-          "verified": false,
-          "votes": 1,
-          "human_votes": 0,
-          "ai_votes": 1,
-          "created_at": "2026-11-04T05:27:49.362988+00:00",
+          "created_at": "2026-11-05T02:39:22.734206+00:00",
           "platform": "music"
         }
       ]
