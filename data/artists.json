@@ -25070,6 +25070,16 @@
     "platform": "music"
   },
   {
+    "id": "billie-eilish",
+    "name": "billie eilish",
+    "verified": false,
+    "votes": -3,
+    "human_votes": 3,
+    "ai_votes": 0,
+    "created_at": "2026-07-09T07:27:13.139063+00:00",
+    "platform": "music"
+  },
+  {
     "id": "epic:-the-ocean-saga-(official-concept-album)",
     "name": "epic: the ocean saga (official concept album)",
     "verified": false,
@@ -25137,16 +25147,6 @@
     "human_votes": 0,
     "ai_votes": 1,
     "created_at": "2026-07-15T15:13:24.7885+00:00",
-    "platform": "music"
-  },
-  {
-    "id": "irokz",
-    "name": "irokz",
-    "verified": false,
-    "votes": 1,
-    "human_votes": 0,
-    "ai_votes": 1,
-    "created_at": "2026-07-15T15:13:46.623065+00:00",
     "platform": "music"
   },
   {
@@ -25360,13 +25360,13 @@
     "platform": "music"
   },
   {
-    "id": "billie-eilish",
-    "name": "billie eilish",
+    "id": "irokz",
+    "name": "irokz",
     "verified": false,
-    "votes": -2,
-    "human_votes": 2,
-    "ai_votes": 0,
-    "created_at": "2026-07-09T07:27:13.139063+00:00",
+    "votes": 1,
+    "human_votes": 0,
+    "ai_votes": 1,
+    "created_at": "2026-07-15T15:13:46.623065+00:00",
     "platform": "music"
   },
   {
@@ -27430,16 +27430,6 @@
     "platform": "music"
   },
   {
-    "id": "no-reasons",
-    "name": "no reasons",
-    "verified": false,
-    "votes": 3,
-    "human_votes": 0,
-    "ai_votes": 3,
-    "created_at": "2026-07-21T12:03:21.051626+00:00",
-    "platform": "music"
-  },
-  {
     "id": "skyla-reeze",
     "name": "skyla reeze",
     "verified": false,
@@ -28097,6 +28087,16 @@
     "human_votes": 2,
     "ai_votes": 0,
     "created_at": "2026-07-29T12:52:09.003642+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "no-reasons",
+    "name": "no reasons",
+    "verified": false,
+    "votes": 4,
+    "human_votes": 0,
+    "ai_votes": 4,
+    "created_at": "2026-07-21T12:03:21.051626+00:00",
     "platform": "music"
   },
   {
@@ -33860,16 +33860,6 @@
     "platform": "music"
   },
   {
-    "id": "seb-lowe",
-    "name": "seb lowe",
-    "verified": false,
-    "votes": -1,
-    "human_votes": 1,
-    "ai_votes": 0,
-    "created_at": "2026-08-20T18:11:22.198761+00:00",
-    "platform": "music"
-  },
-  {
     "id": "x-ambassadors",
     "name": "x ambassadors",
     "verified": false,
@@ -33977,16 +33967,6 @@
     "human_votes": 1,
     "ai_votes": 0,
     "created_at": "2026-08-21T03:26:17.390047+00:00",
-    "platform": "music"
-  },
-  {
-    "id": "k/da",
-    "name": "k/da",
-    "verified": false,
-    "votes": -1,
-    "human_votes": 1,
-    "ai_votes": 0,
-    "created_at": "2026-08-21T03:26:33.581938+00:00",
     "platform": "music"
   },
   {
@@ -34350,6 +34330,16 @@
     "platform": "music"
   },
   {
+    "id": "k/da",
+    "name": "k/da",
+    "verified": false,
+    "votes": -2,
+    "human_votes": 2,
+    "ai_votes": 0,
+    "created_at": "2026-08-21T03:26:33.581938+00:00",
+    "platform": "music"
+  },
+  {
     "id": "foals",
     "name": "foals",
     "verified": false,
@@ -34577,6 +34567,16 @@
     "human_votes": 2,
     "ai_votes": 0,
     "created_at": "2026-08-24T05:58:57.127339+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "seb-lowe",
+    "name": "seb lowe",
+    "verified": false,
+    "votes": -2,
+    "human_votes": 2,
+    "ai_votes": 0,
+    "created_at": "2026-08-20T18:11:22.198761+00:00",
     "platform": "music"
   },
   {
@@ -35510,16 +35510,6 @@
     "platform": "music"
   },
   {
-    "id": "bbpanzu",
-    "name": "bbpanzu",
-    "verified": false,
-    "votes": -1,
-    "human_votes": 1,
-    "ai_votes": 0,
-    "created_at": "2026-08-28T04:15:23.170062+00:00",
-    "platform": "music"
-  },
-  {
     "id": "alva-vinter",
     "name": "alva vinter",
     "verified": false,
@@ -36387,6 +36377,16 @@
     "human_votes": 1,
     "ai_votes": 0,
     "created_at": "2026-08-31T21:59:34.12637+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "bbpanzu",
+    "name": "bbpanzu",
+    "verified": false,
+    "votes": -1,
+    "human_votes": 1,
+    "ai_votes": 0,
+    "created_at": "2026-08-28T04:15:23.170062+00:00",
     "platform": "music"
   },
   {
@@ -45020,16 +45020,6 @@
     "platform": "music"
   },
   {
-    "id": "eric404",
-    "name": "eric404",
-    "verified": false,
-    "votes": 1,
-    "human_votes": 0,
-    "ai_votes": 1,
-    "created_at": "2026-10-11T20:40:31.057013+00:00",
-    "platform": "music"
-  },
-  {
     "id": "yearboox",
     "name": "yearboox",
     "verified": false,
@@ -45527,6 +45517,16 @@
     "human_votes": 0,
     "ai_votes": 2,
     "created_at": "2026-10-11T20:37:51.42465+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "eric404",
+    "name": "eric404",
+    "verified": false,
+    "votes": 0,
+    "human_votes": 1,
+    "ai_votes": 1,
+    "created_at": "2026-10-11T20:40:31.057013+00:00",
     "platform": "music"
   },
   {
@@ -46690,16 +46690,6 @@
     "platform": "music"
   },
   {
-    "id": "true-damage",
-    "name": "true damage",
-    "verified": false,
-    "votes": -1,
-    "human_votes": 1,
-    "ai_votes": 0,
-    "created_at": "2026-10-25T12:13:20.197015+00:00",
-    "platform": "music"
-  },
-  {
     "id": "cet-lua",
     "name": "cet lua",
     "verified": false,
@@ -47377,6 +47367,16 @@
     "human_votes": 2,
     "ai_votes": 0,
     "created_at": "2026-10-24T17:30:51.56209+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "true-damage",
+    "name": "true damage",
+    "verified": false,
+    "votes": -2,
+    "human_votes": 2,
+    "ai_votes": 0,
+    "created_at": "2026-10-25T12:13:20.197015+00:00",
     "platform": "music"
   },
   {
@@ -58367,6 +58367,156 @@
     "human_votes": 1,
     "ai_votes": 0,
     "created_at": "2026-11-05T02:39:22.734206+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "trucky",
+    "name": "trucky",
+    "verified": false,
+    "votes": -1,
+    "human_votes": 1,
+    "ai_votes": 0,
+    "created_at": "2026-11-05T09:35:21.827337+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "lunak",
+    "name": "Lunak",
+    "verified": false,
+    "votes": 1,
+    "human_votes": 0,
+    "ai_votes": 1,
+    "created_at": "2026-11-05T14:15:59.156254+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "happy-landing",
+    "name": "Happy Landing",
+    "verified": false,
+    "votes": -1,
+    "human_votes": 1,
+    "ai_votes": 0,
+    "created_at": "2026-11-05T14:53:12.205473+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "gravity-metals",
+    "name": "Gravity Metals",
+    "verified": false,
+    "votes": 1,
+    "human_votes": 0,
+    "ai_votes": 1,
+    "created_at": "2026-11-05T15:25:10.281872+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "flvppz",
+    "name": "FLVPPZ",
+    "verified": false,
+    "votes": 1,
+    "human_votes": 0,
+    "ai_votes": 1,
+    "created_at": "2026-11-05T15:25:38.581858+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "mugen-j",
+    "name": "Mugen J",
+    "verified": false,
+    "votes": -1,
+    "human_votes": 1,
+    "ai_votes": 0,
+    "created_at": "2026-11-05T15:27:18.146014+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "dmd696",
+    "name": "dmd696",
+    "verified": false,
+    "votes": 1,
+    "human_votes": 0,
+    "ai_votes": 1,
+    "created_at": "2026-11-05T17:09:10.894314+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "orelsan",
+    "name": "Orelsan",
+    "verified": false,
+    "votes": -1,
+    "human_votes": 1,
+    "ai_votes": 0,
+    "created_at": "2026-11-05T20:12:27.932323+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "selim",
+    "name": "selim",
+    "verified": false,
+    "votes": 1,
+    "human_votes": 0,
+    "ai_votes": 1,
+    "created_at": "2026-11-05T21:31:09.290786+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "mimi",
+    "name": "mimi",
+    "verified": false,
+    "votes": -1,
+    "human_votes": 1,
+    "ai_votes": 0,
+    "created_at": "2026-11-05T23:48:34.603481+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "siivagunner",
+    "name": "siivagunner",
+    "verified": false,
+    "votes": -1,
+    "human_votes": 1,
+    "ai_votes": 0,
+    "created_at": "2026-11-06T00:12:17.211219+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "alximo",
+    "name": "alximo",
+    "verified": false,
+    "votes": -1,
+    "human_votes": 1,
+    "ai_votes": 0,
+    "created_at": "2026-11-06T00:27:04.089212+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "voidseer.",
+    "name": "voidseer.",
+    "verified": false,
+    "votes": -1,
+    "human_votes": 1,
+    "ai_votes": 0,
+    "created_at": "2026-11-06T03:03:55.21929+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "castle-hearts",
+    "name": "castle hearts",
+    "verified": false,
+    "votes": -1,
+    "human_votes": 1,
+    "ai_votes": 0,
+    "created_at": "2026-11-06T03:07:20.334474+00:00",
+    "platform": "music"
+  },
+  {
+    "id": "the-autocollants",
+    "name": "the autocollants",
+    "verified": false,
+    "votes": -1,
+    "human_votes": 1,
+    "ai_votes": 0,
+    "created_at": "2026-11-06T05:30:28.215596+00:00",
     "platform": "music"
   }
 ]
