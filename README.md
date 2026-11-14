@@ -20,8 +20,8 @@ Since SoundProof is crowdsourced, it's only fair for everyone to have access to 
 Please use this over the API.
 
 
-The dumps contain artist.json and recent_changes.json
-artist.json is the full dataset, while recent_changes is every new addition since the last update
+The dumps contain artists.json and recent_changes.json. 
+`artists.json` is the full dataset; `recent_changes.json` contains every new addition since the last update
 
 If you have any questions, requests, or concerns, open an issue!
 
