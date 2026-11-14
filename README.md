@@ -1,8 +1,29 @@
-# SoundProof-Dumps
-Find the full SoundProof database here! updating daily (let's hope)
+```                                                                 
+    ,---,                           ____                         
+  .'  .' `\                       ,'  , `.,-.----.               
+,---.'     \          ,--,     ,-+-,.' _ |\    /  \              
+|   |  .`\  |       ,'_ /|  ,-+-. ;   , |||   :    |  .--.--.    
+:   : |  '  |  .--. |  | : ,--.'|'   |  |||   | .\ : /  /    '   
+|   ' '  ;  :,'_ /| :  . ||   |  ,', |  |,.   : |: ||  :  /`./   
+'   | ;  .  ||  ' | |  . .|   | /  | |--' |   |  \ :|  :  ;_     
+|   | :  |  '|  | ' |  | ||   : |  | ,    |   : .  | \  \    `.  
+'   : | /  ; :  | : ;  ; ||   : |  |/     :     |`-'  `----.   \ 
+|   | '` ,/  '  :  `--'   \   | |`-'      :   : :    /  /`--'  / 
+;   :  .'    :  ,      .-./   ;/          |   | :   '--'.     /  
+|   ,.'       `--`----'   '---'           `---'.|     `--'---'   
+'---'                                       `---`       
+                                                                 
+```
+
+# SoundProof Dumps 
+Since SoundProof is crowdsourced, it's only fair for everyone to have access to our data.
+Please use this over the API.
 
 
-This repo will be cleaned up soon, but for now here is a basic explainer:
+The dumps contain artist.json and recent_changes.json
+artist.json is the full dataset, while recent_changes is every new addition since the last update
+
+If you have any questions, requests, or concerns, open an issue!
 ```
   {
     "id": "dragonite-lofi",
@@ -23,8 +44,7 @@ This repo will be cleaned up soon, but for now here is a basic explainer:
   created at: self-explanatory 
   platform:  This is in case we expand into other platforms (like art), but is currently meaningless
 ```
-recent_changes is what I believe you were asking for. It just shows the new additions/changes since the last dump
 
 all verified entries with `"created_at": "2026-01-20T21:03:37.337+00:00",` are  from Soul0verAI by xoundbyte (~1000) (https://github.com/xoundbyte/soul-over-ai), and are licensed under CC BY 4.0  (https://creativecommons.org/licenses/by/4.0/). We are not affiliated with or endorsed by Soul0verAI.
 
-every other entry is licensed under ODC Open Database License (ODbL)
+Every other entry is licensed under the ODC Open Database License (ODbL)
