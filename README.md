@@ -15,7 +15,7 @@
                                                                  
 ```
 
-# SoundProof Dumps 
+# SoundProof Dumps -- [Get SoundProof!](https://github.com/NuclearBlox/SoundProof-extension)
 Since SoundProof is crowdsourced, it's only fair for everyone to have access to our data.
 Please use this over the API.
 
@@ -24,6 +24,7 @@ The dumps contain artist.json and recent_changes.json
 artist.json is the full dataset, while recent_changes is every new addition since the last update
 
 If you have any questions, requests, or concerns, open an issue!
+
 ```
   {
     "id": "dragonite-lofi",
